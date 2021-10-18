@@ -7,9 +7,9 @@ To use one of the 50 datasets of Amazon products and determine being a Amazon Vi
 
 ## Results
 
-![Vine_Paid](githubcomDavidFGitH)
+![Vine_Paid](https://github.com/DavidFGitH/Amazon_Vine_Analysis/blob/main/Resources/Vine_Paid.png)
 
-![Vine_NotPaid](githubcomDavidFGitH)
+![Vine_NotPaid](https://github.com/DavidFGitH/Amazon_Vine_Analysis/blob/main/Resources/Vine_NotPaid.png)
 
 For this project, we chose the video games dataset, from which there were a total of 94 Vine reviews and 40471 Non-Vine reviews. Of those reviews, 48 of the Vine reviews were 5 stars and 15633 of the Non-Vine reviews were 5 stars. This gives us about 51 percent of Vine reviews being 5 star and 38.7 percent of Non-Vine reviews being 5 star.
 
